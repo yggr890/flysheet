@@ -1,0 +1,216 @@
+<html data-lt-installed="true"><head>
+<title>Цвета HTML Color Цветовой Конвертер</title>
+<meta name="Description" content="HTML подбор цветов Цветовой Конвертер">
+<meta name="Keywords" content="Цветовой Конвертер hex Hsl Hwb Cmyk Ncol HTML 3 4 5 6  Color таблица коды код кодировка генератор цветов цвета цвет ссылка текс палитра текст picker tag  names rgb">
+<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script type="text/javascript" async="" src="https://cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=000181884104987470663:ke6i2ssrb1s"></script><script type="text/javascript" src="//an.yandex.ru/system/context.js" async=""></script><script type="text/javascript" src="//an.yandex.ru/system/context.js" async=""></script><script src="/lib/w3color.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../zlib/4/w3.css">
+<link rel="stylesheet" href="../zlib/4/2.css">
+<link rel="icon" href="/faviconcolors.png" type="image/png">
+<script async="" src="/lib/w3color.js"></script>
+<script async="" src="trycolorwheel.js"></script>
+<link href="trycolorwheel.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Alfa Slab One" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css"></style><script src="https://www.google.com/cse/static/element/921554e23151c152/cse_element__ru.js?usqp=CAI%3D" type="text/javascript"></script><link type="text/css" rel="stylesheet" href="https://www.google.com/cse/static/element/921554e23151c152/default+ru.css"><link type="text/css" rel="stylesheet" href="https://www.google.com/cse/static/style/look/v4/default.css"><style type="text/css">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#D9D9D9}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#073763;background-color:#357AE8;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#0000CC}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#0000CC}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#0000CC}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#0000CC}.gsc-cursor-page{color:#0000CC}a.gsc-trailing-more-results:link{color:#0000CC}.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,.gs-fileFormatType{color:#000000}.gs-webResult div.gs-visibleUrl{color:#008000}.gs-webResult div.gs-visibleUrl-short{color:#008000}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-webResult.gsc-result.gsc-promotion{border-color:#336699;background-color:#FFFFFF}.gsc-completion-title{color:#0000CC}.gsc-completion-snippet{color:#000000}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#0000CC}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#0000CC}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#0000CC}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#0000CC}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#000000}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#008000}.gcsc-find-more-on-google{color:#0000CC}.gcsc-find-more-on-google-magnifier{fill:#0000CC}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+<body>
+<div itemscope="" itemtype="http://schema.org/WebPage">
+</div>
+
+
+
+
+
+<div class="w3-main w3-light-grey" id="belowtopnav" style="margin-left: 220px; padding-top: 0px;">
+<div class="w3-row w3-white">
+<div class="w3-col l10 m12" id="main">
+
+
+
+
+
+
+
+<br>
+  
+
+
+<br>
+<div class="w3-container w3-padding-large" style="background-color:#f1f1f1;border:1px solid #d3d3d3;">
+<div class="w3-row">
+<div class="w3-col l6">
+<h2>Введите цвет:</h2>
+<label><span class="w3-text-grey"><i>name, hex, rgb, hsl, hwb, cmyk, ncol:</i></span></label>
+<input id="color01" type="text" value="rgb(0, 191, 255)" class="w3-input w3-border" oninput="convertColor()" onchange="validateColor()" onkeydown="submitOnEnter(event)">
+<br>
+<div class="resultStrings">
+<div id="error01"></div>
+<table id="resultTable" style="display: table;">
+<tbody><tr><td id="helpname01">Name</td><td id="name01" style="font-style: italic; color: rgb(117, 117, 117);">no name</td></tr>
+<tr><td id="helprgb01"><a href="colors_rgb.php?color=rgb(83, 38, 32)">Rgb</a></td><td id="rgb01">rgb(83, 38, 32)</td></tr>
+<tr><td id="helphex01"><a href="colors_hexadecimal.php?color=532620">Hex</a></td><td id="hex01">#532620</td></tr>
+<tr><td id="helphsl01"><a href="colors_hsl.php?color=hsl(7, 0.44, 0.23)">Hsl</a></td><td id="hsl01">hsl(7, 44%, 23%)</td></tr>
+<tr><td id="helphwb01"><a href="colors_hwb.php?color=hwb(7, 0.13, 0.67)">Hwb</a></td><td id="hwb01">hwb(7, 13%, 67%)</td></tr>
+<tr><td id="helpcmyk01"><a href="colors_cmyk.php?color=cmyk(0, 0.54, 0.61, 0.67)">Cmyk</a></td><td id="cmyk01">cmyk(0%, 54%, 61%, 67%)</td></tr>
+<tr><td id="helpncol01"><a href="colors_ncol.php?color=R12, 0.13, 0.67">Ncol</a></td><td id="ncol01">R12, 13%, 67%</td></tr>
+
+</tbody></table>
+</div>
+</div>
+<div class="w3-col l6" style="padding:40px 40px 10px 40px;">
+<div id="behindresult01">
+<div style="height: 294px; background-color: rgb(83, 38, 32);" id="result01">&nbsp;</div>
+</div>
+</div>
+</div>
+<div class="w3-row">
+<div class="w3-col">
+<div id="linktocp"><hr style="border-color:#dfdfdf"><p><a href="colors_picker.php?color=532620">Use this color in our Color Picker</a></p></div>
+</div>
+</div>
+</div>
+<hr>
+<br>
+
+<script>
+function convertColor() {
+    color = document.getElementById("color01").value;
+    if (color == "") {
+        validateColor();
+        return;
+    }
+    color = color.toLowerCase();
+    //document.getElementsByTagName("h1")[0].style.color = w3color(color).toRgbString();
+    c = w3color(color);
+    if (c.valid) {
+        document.getElementById("resultTable").style.display = "table";
+        document.getElementById("error01").innerHTML = "";
+        document.getElementById("result01").style.backgroundColor = c.toRgbaString();
+        if (c.toName() == "") {
+            document.getElementById("name01").style.fontStyle = "italic";
+            document.getElementById("name01").style.color = "#757575";
+            document.getElementById("name01").innerHTML = "no name";
+        } else {
+            document.getElementById("name01").style.fontStyle = "normal";
+            document.getElementById("name01").style.color = "#000000";
+            document.getElementById("name01").innerHTML = c.toName();
+        }
+        document.getElementById("helpname01").innerHTML = "Name";
+        document.getElementById("hex01").innerHTML = c.toHexString();
+        document.getElementById("helphex01").innerHTML = "<a href='colors_hexadecimal.php?color=" + c.toHexString().substr(1) + "'>Hex</a>";
+        document.getElementById("cmyk01").innerHTML = c.toCmykString();
+        document.getElementById("helpcmyk01").innerHTML = "<a href='colors_cmyk.php?color=" + c.toCmykStringDecimal() + "'>Cmyk</a>";
+        document.getElementById("helpncol01").innerHTML = "<a href='colors_ncol.php?color=" + c.toNcolStringDecimal() + "'>Ncol</a>";
+        if ((color.indexOf("rgba") > -1 || color.indexOf("hsla") > -1 || color.indexOf("hwba") > -1 || color.indexOf("ncola")) > -1
+            || (color.indexOf("cmyk") == -1 && color.split(",").length == 4)
+            || (color.indexOf("cmyk") > -1 && color.split(",").length == 5)) {
+            document.getElementById("rgb01").innerHTML = c.toRgbaString();
+            document.getElementById("hsl01").innerHTML = c.toHslaString();
+            document.getElementById("hwb01").innerHTML = c.toHwbaString();
+            document.getElementById("ncol01").innerHTML = c.toNcolaString();
+            document.getElementById("helprgb01").innerHTML = "Rgba";
+            document.getElementById("helphsl01").innerHTML = "Hsla";
+            document.getElementById("helphwb01").innerHTML = "Hwba";
+        } else {
+            document.getElementById("rgb01").innerHTML = c.toRgbString();
+            document.getElementById("hsl01").innerHTML = c.toHslString();
+            document.getElementById("hwb01").innerHTML = c.toHwbString();
+            document.getElementById("ncol01").innerHTML = c.toNcolString();
+            document.getElementById("helprgb01").innerHTML = "<a href='colors_rgb.php?color=" + c.toRgbString() + "'>Rgb</a>";
+            document.getElementById("helphsl01").innerHTML = "<a href='colors_hsl.php?color=" + c.toHslStringDecimal() + "'>Hsl</a>";
+            document.getElementById("helphwb01").innerHTML = "<a href='colors_hwb.php?color=" + c.toHwbStringDecimal() + "'>Hwb</a>";
+        }
+
+        document.getElementById("linktocp").innerHTML = "<hr style='border-color:#dfdfdf'><p><a href='colors_picker.php?color=" + c.toHexString().substr(1) + "'>Use this color in our Color Picker</a></p>";
+        
+    } else {
+        validateColor();
+    }
+}
+function validateColor() {
+    var color, c, x, i, l;
+    color = document.getElementById("color01").value;
+    c = w3color(color);
+    if (color == "" || !c.valid) {
+        document.getElementById("result01").style.backgroundColor = "#f1f1f1";
+        document.getElementById("resultTable").style.display = "none";
+        document.getElementById("error01").innerHTML = "Not a legal color value";
+        document.getElementById("hex01").innerHTML = "";
+        document.getElementById("rgb01").innerHTML = "";
+        document.getElementById("hsl01").innerHTML = "";
+        document.getElementById("hwb01").innerHTML = "";
+        document.getElementById("ncol01").innerHTML = "";
+        document.getElementById("helpname01").innerHTML = "";
+        document.getElementById("helphex01").innerHTML = "";
+        document.getElementById("helprgb01").innerHTML = "";
+        document.getElementById("helphsl01").innerHTML = "";
+        document.getElementById("helphwb01").innerHTML = "";
+        document.getElementById("helpncol01").innerHTML = "";
+    } else {
+        document.getElementById("resultTable").style.display = "table";
+        document.getElementById("error01").innerHTML = "";
+    
+        convertColor();
+    }
+}
+function submitOnEnter(e) {
+    keyboardKey = e.which || e.keyCode;
+    if (keyboardKey == 13) {
+        validateColor();
+    }
+}
+
+convertColor();
+</script>
+</div>
+
+</div>
+<div id="footer" class="footer w3-container w3-white">
+<hr>
+
+
+<div id="yandex_rtb_R-A-334388-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-334388-3",
+                renderTo: "yandex_rtb_R-A-334388-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+ 
+<hr>
+<div class="w3-center w3-small w3-opacity">
+Copyright 2018-2020 HTML5CSS.ru<br> <br>
+<br>
+<a href="/info/terms-and-conditions.php" rel="nofollow">Правила и Условия</a> <a href="/info/privacy-policy.php" rel="nofollow">Политика конфиденциальности </a>
+<a href="/info/about.php" rel="nofollow">О нас</a>
+<a href="/info/contacts.php" rel="nofollow">Контакты </a>
+</div>
+<br><br>
+</div>
+</div>
+<script src="../zlib/4/1.js"></script>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>  
+<![endif]-->
+
+
+
+
+</body>
+
+</html>
