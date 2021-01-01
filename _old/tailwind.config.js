@@ -8,20 +8,7 @@ module.exports = {
     },
 
 
-    screens: {
-      sm: '640px',
-      lg: '1024px',
-      xl: '1280px',
-      '2xl': '1440px', //2xl needs quotes because it starts with a number
-    },
-
     extend: {
-
-      fontFamily: {
-        sans: ['Lato', 'sans-serif'],
-        // heading: ['Oswald', 'sans-serif'],
-        heading: ['Cambria', 'font-serif'],
-      },
 
       colors: {
         blue: {
